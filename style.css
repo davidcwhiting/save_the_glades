@@ -247,3 +247,9 @@ header .logo {
     font-size: 2em;
   }
 }
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
